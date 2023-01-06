@@ -1,9 +1,6 @@
 # Samrat Al Shahriar
 ## Software Developer
 
-- ------------------------ ![](https://komarev.com/ghpvc/?username=SamratAlShahriar)
-
-
 - Mobile Application Development
   - Native (Android)
     - Java
@@ -18,3 +15,7 @@
   - C/C++
   - HTML
   - CSS
+
+
+
+![](https://komarev.com/ghpvc/?username=SamratAlShahriar)
