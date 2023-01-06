@@ -1,7 +1,7 @@
 # Samrat Al Shahriar
 ## Software Developer
 
----------- ![](https://komarev.com/ghpvc/?username=SamratAlShahriar)
+- ------------------------ ![](https://komarev.com/ghpvc/?username=SamratAlShahriar)
 
 
 - Mobile Application Development
