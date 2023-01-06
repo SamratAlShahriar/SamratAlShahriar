@@ -7,7 +7,6 @@
     - Kotlin
   - Cross (Android + iOS)
     - Flutter
-
 - Programming Languages
   - Java
   - Kotlin
