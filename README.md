@@ -1,5 +1,4 @@
-# Samrat Al Shahriar
-## Software Developer
+# Samrat Al Shahriar ## (Software Developer)
 
 ### Education
 ```
