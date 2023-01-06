@@ -4,14 +4,13 @@
 
 ![](https://komarev.com/ghpvc/?username=SamratAlShahriar)
 
-```
+
 - Mobile Application Development
   - Native (Android)
     - Java
     - Kotlin
   - Cross (Android + iOS)
     - Flutter
-```
 - ---------------------------------
 - Programming Languages
   - Java
