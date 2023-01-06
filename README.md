@@ -11,7 +11,7 @@
   - Cross (Android + iOS)
     - Flutter
 
-- Languages
+- Programming Languages
   - Java
   - Kotlin
   - Dart
