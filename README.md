@@ -10,3 +10,11 @@
     - Kotlin
   - Cross
     - Flutter
+
+- Languages
+  - Java
+  - Kotlin
+  - Dart
+  - C/C++
+  - HTML
+  - CSS
