@@ -3,17 +3,17 @@
 ### Working Area
 - Mobile Application Development
   - Native (Android)
-    - Java
-    - Kotlin
+    - `Java`
+    - `Kotlin`
   - Cross (Android + iOS)
-    - Flutter
+    - `Flutter`
 - Programming Languages
-  - Java
-  - Kotlin
-  - Dart
-  - C/C++
-  - HTML
-  - CSS
+  - `Java`
+  - `Kotlin`
+  - `Dart`
+  - `C/C++`
+  - `HTML`
+  - `CSS`
 
 ### Education
 ```
