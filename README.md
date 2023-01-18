@@ -14,6 +14,11 @@
   - `C/C++`
   - `HTML`
   - `CSS`
+- Databases
+  - MySQL
+  - Sqlite
+  - Firebase
+
 
 ### Education
 ```
