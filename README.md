@@ -15,9 +15,9 @@
   - `HTML`
   - `CSS`
 - Databases
-  - MySQL
-  - Sqlite
-  - Firebase
+  - `MySQL`
+  - `Sqlite`
+  - `Firebase`
 
 
 ### Education
