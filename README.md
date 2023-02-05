@@ -34,5 +34,9 @@ Diploma in Computer Science and Technology
 ```
 
 
+Tools:
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png" width="350" title="Android Studio">
+
+
 
 ![](https://komarev.com/ghpvc/?username=SamratAlShahriar)
