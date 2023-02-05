@@ -34,7 +34,7 @@ Diploma in Computer Science and Technology
 ```
 
 
- ###Tools: <br>
+ ### Tools: <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png" width="32" title="Android Studio">
 
 
