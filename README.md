@@ -35,8 +35,7 @@ Diploma in Computer Science and Technology
 
 
  ### Tools
-<img src="/images/logo_as.png" width="32" title="Android Studio">
-<img src="/images/logo_dart.png" width="32" title="Android Studio">
+<img src="/images/logo_as.png" width="32" title="Android Studio"> <img src="/images/logo_dart.png" width="32" title="Android Studio">
 
 
 
