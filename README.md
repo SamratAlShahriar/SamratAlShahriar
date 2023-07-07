@@ -19,6 +19,11 @@
   - `Sqlite`
   - `Firebase`
 
+### Working Experience
+```
+App Developer
+HRsoftBD Ltd. (May 2023 - Present)
+```
 
 ### Education
 ```
