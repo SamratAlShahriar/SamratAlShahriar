@@ -22,7 +22,7 @@
 ### Working Experience
 ```
 App Developer (May 2023 - Present)
-<a href = "https://hrsoftbd.com/" >HRsoftBD Ltd.</a>| Dhaka Bangladesh
+[HRsoftBD Ltd.] (https://hrsoftbd.com/)| Dhaka Bangladesh
 ```
 
 ### Education
