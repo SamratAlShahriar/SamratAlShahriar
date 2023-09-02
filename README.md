@@ -41,8 +41,12 @@ Diploma in Computer Science and Technology
 
 
  ### Tools
-<img src="/images/logo_as.png" width="48" title="Android Studio"> <img src="/images/logo_dart.png" width="32" title="Android Studio">
-![AS](/images/logo_as.png)
+<img src="/images/logo_as.png" width="32" title="Android Studio"> 
+<img src="/images/logo_java.png" width="32" title="Java Language">
+<img src="/images/logo_kotlin.png" width="32" title="Kotlin Language">
+<img src="/images/logo_dart.png" width="32" title="Dart Language">
+<img src="/images/logo_git.png" width="32" title="Git">
+
 
 
 
