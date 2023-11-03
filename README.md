@@ -41,9 +41,20 @@ Diploma in Computer Science and Technology
 
 
  ### Tools
-<img src="/images/logo_as.png" width="32" title="Android Studio"> <img src="/images/logo_flutter.png" width="32" title="Git">
-<img src="/images/logo_java.png" width="32" title="Java Language"> <img src="/images/logo_kotlin.png" width="32" title="Kotlin Language"> <img src="/images/logo_dart.png" width="32" title="Dart Language"> 
+<img src="/images/logo_as.png" width="32" title="Android Studio"> 
+<img src="/images/logo_vs.png" width="32" title="VS Code"> 
+
+<img src="/images/logo_flutter.png" width="32" title="Flutter">
+
+<img src="/images/logo_java.png" width="32" title="Java Language"> 
+<img src="/images/logo_kotlin.png" width="32" title="Kotlin Language"> 
+<img src="/images/logo_dart.png" width="32" title="Dart Language"> 
+
+<img src="/images/logo_mysql.png" width="32" title="My SQL"> 
+<img src="/images/logo_firebase.png" width="32" title="Firebase"> 
+
 <img src="/images/logo_git.png" width="32" title="Git"> 
+<img src="/images/logo_pm.png" width="32" title="Postman"> 
 
 
 
