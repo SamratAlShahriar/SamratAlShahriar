@@ -43,7 +43,7 @@ Diploma in Computer Science and Technology
  ### Tools
 <img src="/images/logo_as.png" width="32" title="Android Studio"> <img src="/images/logo_vs.png" width="32" title="VS Code"> 
 
-<img src="/images/logo_flutter.png" width="32" title="Flutter">
+<img src="/images/logo_flutter.png" width="32" title="Flutter"> <img src="/images/logo_android.png" width="32" title="Android"> <img src="/images/logo_ios.png" width="32" title="iOS"> 
 
 <img src="/images/logo_java.png" width="32" title="Java Language"> <img src="/images/logo_kotlin.png" width="32" title="Kotlin Language"> <img src="/images/logo_dart.png" width="32" title="Dart Language"> 
 
