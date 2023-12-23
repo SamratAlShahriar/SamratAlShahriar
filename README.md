@@ -41,7 +41,7 @@ Diploma in Computer Science and Technology
 
 
  ### Tools
-<img src="/images/logo_as.png" width="32" title="Android Studio"> <img src="/images/logo_vs.png" width="32" title="VS Code"> <img src="/images/logo_ij.png" width="32" title="Intellij Idea"> 
+<img src="/images/logo_as.png" width="32" title="Android Studio"> <img src="/images/logo_vs.png" width="32" title="VS Code"> <img src="/images/logo_ij.png" width="32" title="Intellij Idea"> <img src="/images/logo_netbeans.png" width="32" title="Netbeans"> 
 
 <img src="/images/logo_flutter.png" width="32" title="Flutter"> <img src="/images/logo_android.png" width="32" title="Android"> <img src="/images/logo_ios.png" width="32" title="iOS"> 
 
