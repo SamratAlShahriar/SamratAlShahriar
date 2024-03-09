@@ -9,9 +9,9 @@
   - Cross (Android + iOS)
     - `Flutter`
 - Programming Languages
+  - `Dart`
   - `Java`
   - `Kotlin`
-  - `Dart`
   - `C/C++`
   - `HTML`
   - `CSS`
