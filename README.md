@@ -46,7 +46,7 @@ Diploma in Computer Science and Technology
  ### Tools
 IDE: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="/images/logo_as.png" width="32" title="Android Studio"> <img src="/images/logo_vs.png" width="32" title="VS Code"> <img src="/images/logo_ij.png" width="32" title="Intellij Idea"> <img src="/images/logo_netbeans.png" width="32" title="Netbeans"> 
 
-Platform & SDK: &emsp; <img src="/images/logo_flutter.png" width="32" title="Flutter"> <img src="/images/logo_android.png" width="32" title="Android"> <img src="/images/logo_ios.png" width="32" title="iOS"> 
+Platform & SDK: &emsp; <img src="/images/logo_flutter.png" width="32" title="Flutter"> <img src="/images/logo_android.png" width="32" title="Android"> <img src="/images/logo_ios.png" width="32" title="iOS"> <img src="/images/logo_javafx.png" width="32" title="JavaFX">
 
 Language: &emsp;&emsp;&emsp;&emsp; <img src="/images/logo_java.png" width="32" title="Java Language"> <img src="/images/logo_kotlin.png" width="32" title="Kotlin Language"> <img src="/images/logo_dart.png" width="32" title="Dart Language"> <img src="/images/html-5.png" width="32" title="HTML Language"> <img src="/images/css-3.png" width="32" title="CSS Language"> 
 
