@@ -8,6 +8,9 @@
     - `Kotlin`
   - Cross (Android + iOS)
     - `Flutter`
+- Desktop Application Development
+  - JavaFX
+  - Flutter
 - Programming Languages
   - `Dart`
   - `Java`
