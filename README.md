@@ -1,5 +1,5 @@
 # Samrat Al Shahriar
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&size=100&duration=2000&pause=10&color=00C0F7&background=1B71FF00&center=true&vCenter=true&width=1920&height=256&lines=Hi;It's+Samrat+Al+Shahriar;I'm+an+app+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&size=100&duration=2000&pause=10&color=00C0F7&background=1B71FF00&center=true&vCenter=true&width=1920&height=128&lines=Hi;It's+Samrat+Al+Shahriar;I'm+an+app+developer)](https://git.io/typing-svg)
 
 ### Working Area
 - Mobile Application Development
