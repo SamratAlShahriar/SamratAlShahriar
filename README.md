@@ -57,4 +57,4 @@ Others: &emsp;&emsp;&emsp;&emsp;&emsp; <img src="/images/logo_git.png" width="32
 
 
 
-![](https://komarev.com/ghpvc/?username=SamratAlShahriar)
+![](https://komarev.com/ghpvc/?username=SamratAlShahriar&style=for-the-badge&label=PROFILE+LOVE)
