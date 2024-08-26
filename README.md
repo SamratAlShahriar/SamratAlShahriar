@@ -9,8 +9,8 @@
   - Cross (Android + iOS)
     - `Flutter`
 - Desktop Application Development
-  - `JavaFX`
   - `Flutter`
+  - `JavaFX`
 - Programming Languages
   - `Dart`
   - `Java`
