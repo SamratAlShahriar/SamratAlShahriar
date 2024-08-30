@@ -48,7 +48,7 @@ IDE: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="/images/logo_as.png" width="
 
 Platform & SDK: &emsp; <img src="/images/logo_flutter.png" width="32" title="Flutter"> <img src="/images/logo_android.png" width="32" title="Android"> <img src="/images/logo_ios.png" width="32" title="iOS"> <img src="/images/logo_javafx.png" width="32" title="JavaFX">
 
-Language: &emsp;&emsp;&emsp;&emsp; <img src="/images/logo_java.png" width="32" title="Java Language"> <img src="/images/logo_kotlin.png" width="32" title="Kotlin Language"> <img src="/images/logo_dart.png" width="32" title="Dart Language"> <img src="/images/html-5.png" width="32" title="HTML Language"> <img src="/images/css-3.png" width="32" title="CSS Language"> 
+Language: &emsp;&emsp;&emsp;&emsp; <img src="/images/logo_dart.png" width="32" title="Dart Language"> <img src="/images/logo_java.png" width="32" title="Java Language"> <img src="/images/logo_kotlin.png" width="32" title="Kotlin Language"> <img src="/images/html-5.png" width="32" title="HTML Language"> <img src="/images/css-3.png" width="32" title="CSS Language"> 
 
 Database: &emsp;&emsp;&emsp;&emsp; <img src="/images/logo_mysql.png" width="32" title="My SQL"> <img src="/images/logo_firebase.png" width="32" title="Firebase"> <img src="/images/logo_sqlite.png" width="32" title="SQLite">
 
