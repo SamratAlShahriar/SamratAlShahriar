@@ -25,7 +25,7 @@
 
 ### Working Experience
 ```
-Mobile App Developer [Flutter] (September 2024 - Present)
+Mobile App[Flutter] Developer (September 2024 - Present)
 SupreoX Ltd. | Dhaka Bangladesh
 
 App Developer (May 2023 - August 2024)
