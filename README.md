@@ -25,8 +25,11 @@
 
 ### Working Experience
 ```
-App Developer (May 2023 - Present)
-HRsoftBD Ltd. | Dhaka Bangladesh
+Mobile App Developer [Flutter] (September 2024 - Present)
+SupreoX Ltd. | Dhaka Bangladesh
+
+App Developer (May 2023 - August 2024)
+HRsoftBD | Dhaka Bangladesh
 ```
 
 ### Education
