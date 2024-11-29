@@ -8,20 +8,6 @@
     - `Kotlin`
   - Cross (Android + iOS)
     - `Flutter`
-- Desktop Application Development
-  - `Flutter`
-  - `JavaFX`
-- Programming Languages
-  - `Dart`
-  - `Java`
-  - `Kotlin`
-  - `C/C++`
-  - `HTML`
-  - `CSS`
-- Databases
-  - `MySQL`
-  - `Sqlite`
-  - `Firebase`
 
 ### Working Experience
 ```
