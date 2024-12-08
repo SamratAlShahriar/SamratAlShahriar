@@ -42,4 +42,4 @@ Diploma in Computer Science and Technology
 2013 - 2017
 ```
 
-![](https://komarev.com/ghpvc/?username=SamratAlShahriar&style=for-the-badge&label=PROFILE+LOVE 💗)
+![](https://komarev.com/ghpvc/?username=SamratAlShahriar&style=for-the-badge&label=PROFILE+LOVE+❤)
