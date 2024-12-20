@@ -22,7 +22,7 @@ Others: &emsp;&emsp;&emsp;&emsp;&emsp; <img src="/images/logo_git.png" width="32
 
 ### Working Experience
 ```
-Mobile App[Flutter] Developer (September 2024 - Present)
+Mobile App Developer - Flutter (September 2024 - Present)
 SupreoX Ltd. | Dhaka Bangladesh
 
 App Developer (May 2023 - August 2024)
@@ -41,6 +41,7 @@ Naogaon Polytechnic Institute
 Diploma in Computer Science and Technology
 2013 - 2017
 ```
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SamratAlShahriar" alt="SamratAlShahriar" /></a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SamratAlShahriar&show_icons=true&locale=en&layout=compact" alt="SamratAlShahriar" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SamratAlShahriar&show_icons=true&locale=en" alt="SamratAlShahriar" /></p>
