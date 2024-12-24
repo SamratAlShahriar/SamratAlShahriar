@@ -31,15 +31,13 @@ HRsoftBD | Dhaka Bangladesh
 
 ### Education
 ```
-Daffodil International University
+Daffodil International University | 2018 - 2021
 B.Sc in Computer Science and Engineering
-2018 - 2021
 ```
 
 ```
-Naogaon Polytechnic Institute
+Naogaon Polytechnic Institute | 2013 - 2017
 Diploma in Computer Science and Technology
-2013 - 2017
 ```
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SamratAlShahriar" alt="SamratAlShahriar" /></a> </p>
