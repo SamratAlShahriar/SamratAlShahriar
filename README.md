@@ -2,9 +2,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&size=100&duration=2000&pause=10&color=00C0F7&background=1B71FF00&center=true&vCenter=true&width=1920&height=128&lines=Hi;It's+Samrat+Al+Shahriar;I'm+an+app+developer)](https://git.io/typing-svg)
 
  ### Tools
-Platform & SDK: &emsp; <img src="/images/logo_flutter.png" width="32" title="Flutter"> <img src="/images/logo_android.png" width="32" title="Android"> <img src="/images/logo_ios.png" width="32" title="iOS"> <img src="/images/logo_javafx.png" width="32" title="JavaFX">
+Language: &emsp;&emsp;&emsp;&emsp; <img src="/images/logo_dart.png" width="32" title="Dart Language"> <img src="/images/logo_java.png" width="32" title="Java Language"> <img src="/images/logo_kotlin.png" width="32" title="Kotlin Language"> <img src="/images/logo_cpp.png" width="32" title="C, C++ Language"> <img src="/images/logo_html_5.png" width="32" title="HTML Language"> <img src="/images/logo_css_3.png" width="32" title="CSS Language">
 
-Language: &emsp;&emsp;&emsp;&emsp; <img src="/images/logo_dart.png" width="32" title="Dart Language"> <img src="/images/logo_java.png" width="32" title="Java Language"> <img src="/images/logo_kotlin.png" width="32" title="Kotlin Language"> <img src="/images/logo_cpp.png" width="32" title="C, C++ Language"> <img src="/images/logo_html_5.png" width="32" title="HTML Language"> <img src="/images/logo_css_3.png" width="32" title="CSS Language"> 
+Platform & SDK: &emsp; <img src="/images/logo_flutter.png" width="32" title="Flutter"> <img src="/images/logo_android.png" width="32" title="Android"> <img src="/images/logo_ios.png" width="32" title="iOS"> <img src="/images/logo_javafx.png" width="32" title="JavaFX"> 
 
 Database: &emsp;&emsp;&emsp;&emsp; <img src="/images/logo_mysql.png" width="32" title="My SQL"> <img src="/images/logo_firebase.png" width="32" title="Firebase"> <img src="/images/logo_sqlite.png" width="32" title="SQLite">
 
