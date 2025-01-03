@@ -20,9 +20,9 @@ Others: &emsp;&emsp;&emsp;&emsp;&emsp; <img src="/images/logo_git.png" width="32
   - Cross (Android + iOS)
     - `Flutter`
 - Desktop  Application Development
-  - Java Swing
-  - Java FX
-  - Flutter
+  - `Java Swing`
+  - `Java FX`
+  - `Flutter`
 
 ### Working Experience
 ```
