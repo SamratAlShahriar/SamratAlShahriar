@@ -39,8 +39,7 @@ HRsoftBD | Dhaka Bangladesh
 ```
 Daffodil International University | 2018 - 2021
 B.Sc in Computer Science and Engineering
-```
-```
+
 Naogaon Polytechnic Institute | 2013 - 2017
 Diploma in Computer Science and Technology
 ```
