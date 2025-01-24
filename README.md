@@ -29,7 +29,7 @@ Others: &emsp;&emsp;&emsp;&emsp;&emsp; <img src="/images/logo_git.png" width="32
 ### Working Experience
 ```
 Mobile App Developer (September 2024 - Present)
-SupreoX Ltd. | Dhaka Bangladesh
+SupreoX Limited | Dhaka Bangladesh
 
 App Developer (May 2023 - August 2024)
 HRsoftBD | Dhaka Bangladesh
