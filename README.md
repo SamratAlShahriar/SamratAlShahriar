@@ -68,6 +68,9 @@
   <img width="48%" src="https://streak-stats.demolab.com/?user=SamratAlShahriar&theme=radical" />
 </p>  
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=SamratAlShahriar&theme=radical)
+
+
 <p align="center">
   <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=SamratAlShahriar&theme=react-dark" />
 </p>  
