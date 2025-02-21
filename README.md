@@ -66,7 +66,8 @@ Diploma in Computer Science and Technology
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamratAlShahriar&theme=github)](stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SamratAlShahriar&theme=react)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SamratAlShahriar&theme=react)](sss)
 
 
 
