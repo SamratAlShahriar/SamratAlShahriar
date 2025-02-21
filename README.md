@@ -42,13 +42,13 @@
 
 ---
 
-## 🏆 Working Experience  
+## 🏆 Work Experience  
 
-### 📌 **Mobile App Developer** (Sept 2024 - Present)  
-🏢 [SupreoX Limited](https://supreox.com) | Dhaka, Bangladesh  
+📌 **Mobile App Developer** (Sept 2024 - Present)  
+🏢 <a href="https://supreox.com" target="_blank">SupreoX Limited</a> | Dhaka, Bangladesh  
 
-### 📌 **App Developer** (May 2023 - Aug 2024)  
-🏢 [HRsoftBD](https://hrsoftbd.com) | Dhaka, Bangladesh  
+📌 **App Developer** (May 2023 - Aug 2024)  
+🏢 <a href="https://hrsoftbd.com" target="_blank">HRsoftBD</a> | Dhaka, Bangladesh  
 
 ---
 
