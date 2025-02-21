@@ -68,7 +68,8 @@
   <img width="48%" src="https://streak-stats.demolab.com/?user=SamratAlShahriar&theme=radical" />
 </p>  
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=SamratAlShahriar&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=SamratAlShahriar&theme=radical)
+
 
 
 <p align="center">
