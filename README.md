@@ -35,6 +35,14 @@ App Developer (May 2023 - August 2024)
 HRsoftBD | Dhaka Bangladesh
 ```
 
+### Working Experience
+- **Mobile App Developer** (Sept 2024 - Present)  
+  🏢 [SupreoX Limited](https://supreox.com) | Dhaka, Bangladesh  
+
+- **App Developer** (May 2023 - Aug 2024)  
+  🏢 [HRsoftBD](https://hrsoftbd.com) | Dhaka, Bangladesh  
+
+
 ### Education
 ```
 Daffodil International University | 2018 - 2021
@@ -44,9 +52,23 @@ Naogaon Polytechnic Institute | 2013 - 2017
 Diploma in Computer Science and Technology
 ```
 
+### 🎓 Education
+- **Daffodil International University** (2018 - 2021)  
+  *B.Sc in Computer Science and Engineering*  
+- **Naogaon Polytechnic Institute** (2013 - 2017)  
+  *Diploma in Computer Science and Technology*  
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SamratAlShahriar" alt="SamratAlShahriar" /></a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SamratAlShahriar&show_icons=true&locale=en&layout=compact" alt="SamratAlShahriar" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SamratAlShahriar&show_icons=true&locale=en" alt="SamratAlShahriar" /></p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamratAlShahriar&theme=github)
+
+
+
+## 🌐 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/SamratAlShahriar)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 
 
 ![](https://komarev.com/ghpvc/?username=SamratAlShahriar&style=for-the-badge&label=PROFILE+LOVE)
