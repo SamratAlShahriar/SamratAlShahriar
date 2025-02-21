@@ -64,7 +64,7 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SamratAlShahriar&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SamratAlShahriar&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SamratAlShahriar&theme=radical" />
 </p>  
 
