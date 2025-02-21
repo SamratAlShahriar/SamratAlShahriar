@@ -65,10 +65,10 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SamratAlShahriar&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=SamratAlShahriar&theme=radical" />
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=SamratAlShahriar&theme=react-dark" />
 </p>  
 <p align="center">
-  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=SamratAlShahriar&theme=react-dark" />
+  <img width="60%" src="https://github-profile-trophy.vercel.app/?username=SamratAlShahriar&theme=radical" />
 </p>  
 
 ---
