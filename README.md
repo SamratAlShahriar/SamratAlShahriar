@@ -64,8 +64,8 @@
 ## 📊 GitHub Stats  
 
 <div align="center" style="height:200px;">
-  <img width="48%" height="200px"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=SamratAlShahriar&show_icons=true&theme=radical" />
-  <img width="48%" height="200px" style='object-fit: cover' src="https://github-readme-activity-graph.vercel.app/graph?username=SamratAlShahriar&theme=react-dark" />
+  <img  style="width:50%;object-fit:cover;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SamratAlShahriar&show_icons=true&theme=radical" />
+  <img  style="width:50%;object-fit:cover;" src="https://github-readme-activity-graph.vercel.app/graph?username=SamratAlShahriar&theme=react-dark" />
 </div>
 <br/>
 <div align="center">
