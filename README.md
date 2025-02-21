@@ -6,6 +6,7 @@
 ## 🚀 About Me  
 🎯 Passionate **Mobile & Desktop App Developer** | **Flutter & Android Specialist**  
 👨‍💻 Focused on building **scalable, efficient & user-friendly applications**  
+🌟 **Hobbies**: Coding, Traveling, and Sleeping 
 
 ---
 
@@ -63,14 +64,17 @@
 
 ## 📊 GitHub Stats  
 
-<div align="center" style="height:200px;">
-  <img  style="object-fit:cover; width=45%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SamratAlShahriar&show_icons=true&theme=radical" />
-  <img  style="object-fit:cover; width=45%" src="https://github-readme-activity-graph.vercel.app/graph?username=SamratAlShahriar&theme=react-dark" />
+<div align="center">
+  <div style="display: flex; justify-content: space-around; align-items: center; width: 100%; height: 200px;">
+    <img style="object-fit: cover; width: 48%; height: 100%;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SamratAlShahriar&show_icons=true&theme=radical" />
+    <img style="object-fit: cover; width: 48%; height: 100%;" src="https://github-readme-activity-graph.vercel.app/graph?username=SamratAlShahriar&theme=react-dark" />
+  </div>
 </div>
 <br/>
 <div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=SamratAlShahriar&theme=radical" />
-</div>  
+  <img style="width: 100%; max-width: 800px;" src="https://github-profile-trophy.vercel.app/?username=SamratAlShahriar&theme=radical" />
+</div>
+
 
 ---
 
