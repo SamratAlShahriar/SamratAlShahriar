@@ -62,7 +62,11 @@ Diploma in Computer Science and Technology
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SamratAlShahriar" alt="SamratAlShahriar" /></a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SamratAlShahriar&show_icons=true&locale=en&layout=compact" alt="SamratAlShahriar" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SamratAlShahriar&show_icons=true&locale=en" alt="SamratAlShahriar" /></p>
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamratAlShahriar&theme=github)
+
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamratAlShahriar&theme=github)](stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SamratAlShahriar&theme=react)](https://git.io/streak-stats)
 
 
 
