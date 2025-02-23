@@ -4,7 +4,7 @@
 ![Profile Banner](https://raw.githubusercontent.com/SamratAlShahriar/SamratAlShahriar/refs/heads/main/images/banner.png)  
 
 ## 🚀 About Me  
-🎯 Passionate **Mobile & Desktop App Developer** | **Flutter & Android Specialist**  
+🎯 Passionate **Mobile & Desktop App Developer** | **Flutter (Android & iOS) Specialist**  
 👨‍💻 Focused on building **scalable, efficient & user-friendly applications**  
 🌟 **Hobbies**: Coding, Traveling, and Sleeping 
 
