@@ -88,4 +88,4 @@
 ---
 
 ## 📌 Profile Views  
-![](https://komarev.com/ghpvc/?username=SamratAlShahriar&style=for-the-badge&label=PROFILE+VIEWS)  
+![](https://komarev.com/ghpvc/?username=SamratAlShahriar&style=for-the-badge&label=PROFILE+LOVE)  
