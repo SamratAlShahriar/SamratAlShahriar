@@ -1,7 +1,7 @@
 # Samrat Al Shahriar  
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&size=50&duration=2000&pause=10&color=00C0F7&background=1B71FF00&center=true&vCenter=true&width=1000&height=80&lines=Hello!;I'm+Samrat+Al+Shahriar;I'm+an+App+Developer)](https://git.io/typing-svg)  
 -->
-![Profile Banner](https://raw.githubusercontent.com/SamratAlShahriar/SamratAlShahriar/refs/heads/main/images/banner.png)   
+![Profile Banner](https://raw.githubusercontent.com/SamratAlShahriar/SamratAlShahriar/refs/heads/main/images/cover_banner.png)   
 
 ## 🚀 About Me  
 🎯 Passionate **Mobile & Desktop App Developer** | **Flutter (Android & iOS) Specialist**  
