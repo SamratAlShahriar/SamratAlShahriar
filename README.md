@@ -6,7 +6,7 @@
 ## 🚀 About Me  
 🎯 Passionate **Mobile & Desktop App Developer** | **Flutter (Android & iOS) Specialist**  
 👨‍💻 Focused on building **scalable, efficient & user-friendly applications**  
-🌟 **Hobbies**: Coding, Traveling, and Sleeping 
+🌟 Hobbies: **Coding, Traveling, and Sleeping** 
 
 ---
 
