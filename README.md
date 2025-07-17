@@ -93,4 +93,4 @@
 ```
 last update : 17 July 2025 12:58 AM (GMT+6)
 ```
-[View Time Chip (Nov 14, 2019, 06:55 AM)](https://samratalshahriar.github.io/time.html?time=2019-11-14T00:55:31.820Z)
+<iframe src="https://samratalshahriar.github.io/time.html?time=2019-11-14T00:55:31.820Z" style="border: none; width: 250px; height: 40px;"></iframe>
