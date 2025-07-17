@@ -93,5 +93,8 @@
 ```
 last update : 17 July 2025 12:58 AM (GMT+6)
 ```
-![](https://time-chip-586duzuyy-samrat-al-shahriars-projects.vercel.app/api/time-chip.png?time=2025-07-17T08:00:00Z)
+
+<div align="center">
   <img style="width: 100%; max-width: 800px;" src="https://time-chip-586duzuyy-samrat-al-shahriars-projects.vercel.app/api/time-chip.png?time=2025-07-17T08:00:00Z" />
+</div>
+
