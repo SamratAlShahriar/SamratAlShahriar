@@ -93,4 +93,5 @@
 ```
 last update : 17 July 2025 12:58 AM (GMT+6)
 ```
-[![Time Chip](https://raw.githubusercontent.com/samratalshahriar/samratalshahriar.github.io/main/images/time-chip.png)](https://samratalshahriar.github.io/time.html?time=2019-11-14T00:55:31.820Z)
+
+![Time Chip](https://time-chip-ae3dy1kv8-samrat-al-shahriars-projects.vercel.app/api/time-chip?time=2025-07-17T08:00:00Z)
