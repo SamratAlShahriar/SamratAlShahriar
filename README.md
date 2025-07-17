@@ -93,4 +93,8 @@
 ```
 last update : 17 July 2025 12:58 AM (GMT+6)
 ```
-<iframe src="https://samratalshahriar.github.io/time.html?time=2019-11-14T00:55:31.820Z" style="border: none; width: 250px; height: 40px;"></iframe>
+<div style="display: inline-block; background: #ffffff; padding: 6px 12px; border-radius: 16px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); font-family: Arial, sans-serif;">
+    <span style="font-size: 0.9em; color: #2c3e50;">Nov 14, 2019, 06:55 AM</span>
+</div>
+
+[See dynamic time chip](https://samratalshahriar.github.io/time.html?time=2019-11-14T00:55:31.820Z)
