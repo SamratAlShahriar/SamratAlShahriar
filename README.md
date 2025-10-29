@@ -45,7 +45,10 @@
 
 ## 🏆 Work Experience  
 
-📌 **Mobile App Developer** (Sept 2024 - Present)  
+📌 **Mobile App Developer** (Aug 2025 - Present)  
+🏢 <a href="https://nexiby.com" target="_blank">Nexiby LLC</a> | Dhaka, Bangladesh  
+
+📌 **Mobile App Developer** (Sept 2024 - Jul 2025)  
 🏢 <a href="https://supreox.com" target="_blank">SupreoX Limited</a> | Dhaka, Bangladesh  
 
 📌 **App Developer** (May 2023 - Aug 2024)  
