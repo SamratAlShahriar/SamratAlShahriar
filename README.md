@@ -94,6 +94,6 @@
 ![](https://komarev.com/ghpvc/?username=SamratAlShahriar&style=for-the-badge&label=PROFILE+LOVE)  
 
 ```
-last update : 29 October 2025 02:58 PM (GMT+6)
+last update : 31 October 2025 07:57/PM (GMT+6)
 ```
 
