@@ -45,7 +45,10 @@
 
 ## 🏆 Work Experience  
 
-📌 **Mobile App Developer** (Sept 2024 - Present)  
+📌 **Mobile App Developer** (Aug 2025 - Present)  
+🏢 <a href="https://nexiby.com" target="_blank">Nexiby LLC</a> | Dhaka, Bangladesh  
+
+📌 **Mobile App Developer** (Sept 2024 - Jul 2025)  
 🏢 <a href="https://supreox.com" target="_blank">SupreoX Limited</a> | Dhaka, Bangladesh  
 
 📌 **App Developer** (May 2023 - Aug 2024)  
@@ -91,5 +94,6 @@
 ![](https://komarev.com/ghpvc/?username=SamratAlShahriar&style=for-the-badge&label=PROFILE+LOVE)  
 
 ```
-last update : 22 June 2025 03:29 PM (GMT+6)
+last update : 04 December 2025 02:25 PM (GMT+6)
 ```
+
