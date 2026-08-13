@@ -3,6 +3,21 @@
 -->
 ![Profile Banner](https://raw.githubusercontent.com/SamratAlShahriar/SamratAlShahriar/refs/heads/main/images/home_banner_new.png)   
 
+<svg width="100%" viewBox="0 0 1000 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="rounded-corner">
+      <!-- Change rx and ry to adjust how curved the corners are -->
+      <rect width="1000" height="320" rx="20" ry="20" />
+    </clipPath>
+  </defs>
+  <image 
+    href="https://raw.githubusercontent.com/SamratAlShahriar/SamratAlShahriar/refs/heads/main/images/home_banner_new.png" 
+    width="1000" 
+    height="320" 
+    clip-path="url(#rounded-corner)" 
+  />
+</svg>
+
 ## 🚀 About Me  
 🎯 Passionate **Mobile & Desktop App Developer** | **Flutter (Android & iOS) Specialist**  
 👨‍💻 Focused on building **scalable, efficient & user-friendly applications**  
